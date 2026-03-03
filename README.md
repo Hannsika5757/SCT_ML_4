@@ -1,0 +1,1 @@
+This project involves developing a hand gesture recognition model that can identify and classify different hand gestures from image or video data. Using machine learning or deep learning techniques, the system processes visual input to detect hand movements and patterns. It enables touchless human-computer interaction and gesture-based control applications.
